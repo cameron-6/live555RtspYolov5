@@ -1,0 +1,3 @@
+/home/zwhy/code/src/live555Rtsp_yolov5/build/CMakeFiles/live555Rtsp_yolov5.dir
+/home/zwhy/code/src/live555Rtsp_yolov5/build/CMakeFiles/edit_cache.dir
+/home/zwhy/code/src/live555Rtsp_yolov5/build/CMakeFiles/rebuild_cache.dir
